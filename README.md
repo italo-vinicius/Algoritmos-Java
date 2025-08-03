@@ -17,5 +17,5 @@ Os arquivos estão organizados por aula. Cada pasta corresponde a uma aula e con
 ## Como executar os códigos
 
 1. Abra o projeto com o **IntelliJ IDEA**.
-2. Navegue até o diretório `src` da aula desejada.
+2. Navegue até o diretório da aula desejada.
 3. Localize o exercício desejado e execute diretamente pelo IntelliJ.
