@@ -8,12 +8,12 @@ public class Exercicio2 {
         int N = sc.nextInt();
         double resultado = calculaInversao(N);
 
-        System.out.println("O resultado é: " + resultado);
+        System.out.printf("O resultado é: %.2f", resultado);
     }
 
     public static double calculaInversao(int n) {
-        if (n == 1) {
-            return 1.0;
+        if (n == 0) {
+            return 0;
         }
 
         return 1.0 / n + calculaInversao(n - 1);
