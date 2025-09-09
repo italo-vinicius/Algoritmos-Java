@@ -1,6 +1,6 @@
 public class Exercicio4 {
     public static void main(String[] args) {
-        int n = 5;
+        int n = 3;
         System.out.println("O " + n + "º número da sequência de Pell é: " + calcularSequenciaDePell(n));
     }
 
