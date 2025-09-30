@@ -1,4 +1,4 @@
-public class Exercicio3 {
+public class PrincipalCalculadora {
     /*
         Crie uma classe Calculadora com atributos privados valor1(double) e valor2(double) e métodos para realizar operações básicas como soma, subtração, multiplicação e divisão.
         Adicione um construtor nesta classe que receba dois valores inteiros. Crie uma classe chamada PrincipalCalculadora que tenha um objeto do tipo Calculadora.

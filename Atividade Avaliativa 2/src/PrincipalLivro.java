@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Exercicio4 {
+public class PrincipalLivro {
     /*
         Crie uma classe Livro com atributos privados: título, autor, ano e número de páginas.
         Adicione métodos para realizar a manipulação desses atributos (exibição(get) e definição(set)) e também crie um

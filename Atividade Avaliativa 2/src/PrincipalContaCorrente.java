@@ -1,4 +1,4 @@
-public class Exercicio2 {
+public class PrincipalContaCorrente {
     /*
         Crie uma classe ContaCorrente com atributos privados: saldo, número da conta e nome titular.
         Crie um construtor para preencher cada um dos atributos dessa classe e também implemente métodos para depositar(double valor), sacar(double valor) e verificarSaldo().

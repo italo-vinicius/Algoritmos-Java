@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Exercicio5 {
+public class PrincipalAluno {
     /*
         Crie uma classe Aluno com atributos privados: nome, matrícula e notas(vetor com 3 índices).
         Implemente métodos para calcular a média das notas e verificar se o aluno está aprovado ou reprovado, considerando

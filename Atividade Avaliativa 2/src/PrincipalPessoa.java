@@ -1,4 +1,4 @@
-public class Exercicio1 {
+public class PrincipalPessoa {
     /*
        Crie uma classe Pessoa com atributos privados: nome, idade e altura. Adicione métodos para realizar a manipulação desses atributos (exibição(get) e definição(set)).
        Crie uma classe chamada PrincipalPessoa, e nesta classe crie pelo menos duas instâncias da classe Pessoa. Defina valores para essas instâncias e mostre suas informações na tela.
