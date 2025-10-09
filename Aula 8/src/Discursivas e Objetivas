@@ -1,0 +1,9 @@
+1 - Verdadeiro
+
+2 - private
+
+3
+A) Polimorfismo permite que objetos se apresentem de várias formas (sobrescrita de métodos, que é uma forma de polimorfismo dinâmico, ou sobrecarga de métodos, que é o polimorfismo estático).
+B) Encapsulamento protege dados, agrupando-os com os métodos que os manipulam.
+C) Herança permite que classes compartilhem propriedades e comportamentos de outras classes.
+D) Construtores são métodos especiais para inicializar objetos, e this é uma palavra-chave que se refere ao objeto atual.
